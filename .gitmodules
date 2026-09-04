@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "iop"]
+	path = iop
+	url = https://github.com/bagozzib/iop
 [submodule "underdisp"]
 	path = underdisp
 	url = https://github.com/bagozzib/underdisp
